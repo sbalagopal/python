@@ -7,7 +7,7 @@ import urllib
 import time
 
 
-URL = 'http://192.168.1.201/wsgi/hello.wsgi'
+URL = 'http://127.0.0.1/wsgi/hello.wsgi'
 MAX_THREADS = 10
 TIME_TO_RUN = 60 * 5
 
